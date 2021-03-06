@@ -4,4 +4,3 @@
 - :seedling: Writing tutorials on building SaaS with Django and React from scratch! Check out [SaaSitive](https://saasitive.com) website.
 
 
-![MLJAR AutoML rocks](https://raw.githubusercontent.com/mljar/visual-identity/main/media/mljar_AutomatedML.png)
