@@ -5,3 +5,7 @@
 - :seedling: Writing tutorials on building SaaS with Django and React from scratch! Check out [SaaSitive](https://saasitive.com) website.
 
 
+<p align="left"> 
+  Visitor count:<br>
+  <img src="https://profile-counter.glitch.me/pplonski/count.svg" />
+</p>
